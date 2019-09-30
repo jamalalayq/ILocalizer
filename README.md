@@ -1,3 +1,3 @@
 # ILocalizer
 
-A description of this package.
+A localizations in application.
