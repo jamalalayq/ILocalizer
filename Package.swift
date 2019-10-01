@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .target(
             name: "ILocalizer",
-            path: "Sources/ILocalizer"
+            path: "Sources"
         )
     ]
 )
