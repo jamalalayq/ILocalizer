@@ -17,5 +17,6 @@ let package = Package(
             name: "ILocalizer",
             path: "Sources"
         )
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
