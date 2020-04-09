@@ -10,7 +10,9 @@ let package = Package(
     products: [
         .library(
             name: "ILocalizer",
-            targets: ["ILocalizer"]),
+            type: .dynamic,
+            targets: ["ILocalizer"]
+        ),
     ],
     targets: [
         .target(
